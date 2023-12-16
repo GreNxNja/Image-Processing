@@ -40,7 +40,7 @@ Replace `ScriptName.py` with the name of the script you want to use, `input_imag
 
 ## Dependencies
 
-- Python 3.x
+- Python 3.12
 - NumPy
 - OpenCV (for image I/O and basic operations)
 
